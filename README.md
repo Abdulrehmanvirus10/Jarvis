@@ -1,0 +1,3 @@
+This is a basic Python Program which can Lessen your Work and can handle your Daily Tasks.
+
+Copy the Code, Edit and Keep Coding....
